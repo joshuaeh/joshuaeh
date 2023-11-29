@@ -32,3 +32,6 @@ On the side, my largest hobby is learning, especially learning how to program be
 ![Activity](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joshuaeh) 
 
 ## Links
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/j-edward-hammond/)
+[![Google Scholar](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Google_Scholar_logo.svg/240px-Google_Scholar_logo.svg.png) Google Scholar](https://scholar.google.com/citations?user=lrqQgHYAAAAJ&hl=en)
