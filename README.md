@@ -12,8 +12,6 @@ Some of my current projects include:
 
 On the side, my largest hobby is learning, especially learning how to program better. Ask me what my current learning endeavor is--hopefully it's just one. In addition, I enjoy spending time with my family, running, and being involved at my church.
 
-## Areas of expertise and interest
-
 ## Technologies I have experience with
 ![python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![pytorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
